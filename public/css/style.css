@@ -1,0 +1,17 @@
+.margin-top-20
+{
+    margin-top: 20px;
+}
+
+.max-hight {
+    max-height: 150px;
+}
+
+.ft-bg {
+    padding: 20px;
+    margin-top: 20px;;
+    background-color: #6c8095;
+}
+.bg-light {
+    background-color: #6c8095!important;
+}
